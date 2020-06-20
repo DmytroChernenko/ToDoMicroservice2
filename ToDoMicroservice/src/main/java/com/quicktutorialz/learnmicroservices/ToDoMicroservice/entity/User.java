@@ -1,4 +1,4 @@
-package com.quicktutorialz.learnmicroservices.ToDoMicroservice.entities;
+package com.quicktutorialz.learnmicroservices.ToDoMicroservice.entity;
 
 
 import lombok.AllArgsConstructor;
