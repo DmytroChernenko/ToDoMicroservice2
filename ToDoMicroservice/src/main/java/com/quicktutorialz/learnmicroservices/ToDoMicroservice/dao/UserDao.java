@@ -1,6 +1,7 @@
 package com.quicktutorialz.learnmicroservices.ToDoMicroservice.dao;
 
-import com.quicktutorialz.learnmicroservices.ToDoMicroservice.entities.User;
+
+import com.quicktutorialz.learnmicroservices.ToDoMicroservice.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

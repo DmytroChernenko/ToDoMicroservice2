@@ -3,7 +3,7 @@ package com.quicktutorialz.learnmicroservices.ToDoMicroservice.controllers;
 
 import com.quicktutorialz.learnmicroservices.ToDoMicroservice.entity.ToDo;
 import org.springframework.web.bind.annotation.RequestMapping;
-import com.quicktutorialz.learnmicroservices.ToDoMicroservice.entities.User;
+import com.quicktutorialz.learnmicroservices.ToDoMicroservice.entity.User;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import javax.validation.Valid;
